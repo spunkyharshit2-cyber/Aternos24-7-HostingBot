@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
+    "ip": "XenoSMP-season1.aternos.me",
     "port": 44019,
     "version": "",
     "try-creative": false
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to None :D!",
         "I like to play Minecraft!"
       ]
     },
