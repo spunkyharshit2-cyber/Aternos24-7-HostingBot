@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "XenoSMP-season1.aternos.me",
-    "port": 44019,
-    "version": "",
+    "port": 44571,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
