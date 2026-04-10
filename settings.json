@@ -18,9 +18,9 @@
     "z": 0
   },
   "utils": {
-    "auto-auth": {
+    "auto-auth": true,
       "enabled": true,
-      "password": "alexjust2 alexjust2"
+      "password": "alexjust2"
     },
     "anti-afk": {
       "enabled": true,
