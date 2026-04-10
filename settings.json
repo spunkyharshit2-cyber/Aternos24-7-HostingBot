@@ -18,7 +18,7 @@
     "z": 0
   },
   "utils": {
-    "auto-auth": true,
+    "auto-auth": {
       "enabled": true,
       "password": "alexjust2"
     },
@@ -46,7 +46,7 @@
       "max-interval": 60
     }
   },
-  "movement": {
+  "movement": true,
     "enabled": true,
     "circle-walk": {
       "enabled": true,
